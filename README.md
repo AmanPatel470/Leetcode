@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0875-longest-mountain-in-array) |
+| [0932-monotonic-array](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0932-monotonic-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Hash Table
 |  |
