@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0204-count-primes) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0169-majority-element) |
