@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0169-majority-element](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 ## Stack
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -62,5 +65,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
