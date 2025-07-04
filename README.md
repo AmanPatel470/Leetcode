@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0875-longest-mountain-in-array](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0875-longest-mountain-in-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0875-longest-mountain-in-array](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0875-longest-mountain-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0204-count-primes) |
+| [0875-longest-mountain-in-array](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0875-longest-mountain-in-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
