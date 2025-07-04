@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -41,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
