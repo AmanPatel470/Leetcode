@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -71,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
