@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0792-binary-search](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0875-longest-mountain-in-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Hash Table
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0792-binary-search](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
