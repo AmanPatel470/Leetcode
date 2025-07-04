@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0065-valid-number) |
+| [0649-dota2-senate](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0649-dota2-senate) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Linked List
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0649-dota2-senate) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Dynamic Programming
@@ -114,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
