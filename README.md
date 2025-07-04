@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Math
 |  |
 | ------- |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 <!---LeetCode Topics End-->
