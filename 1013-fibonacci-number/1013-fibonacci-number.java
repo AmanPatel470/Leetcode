@@ -4,12 +4,6 @@ class Solution {
         if(n<=1) {
             return n;
         }
-        for (int i = 2; i < n; i++) {
-            int next = a + b;
-            System.out.print(" " + next);
-            a = b;
-            b = next;
-        }
-        return a + b;
+        return fib(n-1) + fib(n-2);
     }
 }
