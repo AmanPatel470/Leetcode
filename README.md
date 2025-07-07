@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/1013-fibonacci-number) |
 ## Enumeration
