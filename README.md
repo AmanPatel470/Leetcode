@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0204-count-primes) |
@@ -158,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/AmanPatel470/Leetcode_solutions/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
